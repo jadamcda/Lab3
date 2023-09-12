@@ -1,0 +1,3 @@
+3.1)  Two total orderings for String objects could be for Strings s and t, s <= t iff s.length() <= t.length()
+      or for Strings s and t, s <= t iff s.charAt(0) <= t.charAt(0).
+      A partial ordering would be for Strings s and t, s <= t iff s.length() <= t.length()
